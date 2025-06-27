@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Ahsan Malik",
+    "subject": "MERN Stack developer",
+    "course": 15,
+    "img": "images/6.jpg",
+    "no": "10k+ Students",
+    "experience": "5+ years experience",
+    "duration": 6
+  },
+  {
+    "name": "Nabeel Nasir",
+    "subject": "WordPress",
+    "course": 2,
+    "img": "images/4.jpg",
+    "no": "5k+ Students",
+    "experience": "2+ years experience",
+    "duration": 3
+  },
+  {
+    "name": "Zain Mughal",
+    "subject": "Frontend Developer",
+    "course": 2,
+    "img": "images/5.jpg",
+    "no": "3k+ Students",
+    "experience": "1+ years experience",
+    "duration": 4
+  },
+  {
+    "name": "Bekki Lee",
+    "subject": "English Tutor",
+    "course": 1,
+    "img": "https://randomuser.me/api/portraits/women/12.jpg",
+    "no": "4k+ Students",
+    "experience": "7+ years experience",
+    "duration": 3
+  },
+  {
+    "name": "Hafiz Nauman",
+    "subject": "Freelancing",
+    "course": 3,
+    "img": "images/2.jpg",
+    "no": "6k+ Students",
+    "experience": "8+ years experience",
+    "duration": 5
+  }
+]
