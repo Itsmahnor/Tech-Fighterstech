@@ -4,7 +4,7 @@ import { TopNav } from '../Components/Navbar/TopNav'
 import { BottomNav } from '../Components/Navbar/BottomNav'
 import SignUp from '../RegisterPage/SignUp/SignUp'
 import Footer from '../Components/Footer/Footer'
-import { Icons } from '../Components/Icons/Icons'
+import { Icons } from '../Components/Icons/tech'
 
 
 export const Register = () => {

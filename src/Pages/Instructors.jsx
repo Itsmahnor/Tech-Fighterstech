@@ -6,7 +6,7 @@ import { Header } from '../Components/OurInstructors/Header'
 import { Tutor } from '../Components/Tutot/Tutor'
 
 import Footer from '../Components/Footer/Footer'
-import { Icons } from '../Components/Icons/Icons'
+import { Icons } from '../Components/Icons/tech'
 
 export const Instructors = () => {
   return (

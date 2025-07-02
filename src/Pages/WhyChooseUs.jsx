@@ -6,7 +6,7 @@ import WhyChoose from '../Components/ChooseUS/Content'
 
 import Opportunities from '../Components/ChooseUS/slider'
 import Footer from '../Components/Footer/Footer'
-import { Icons } from '../Components/Icons/Icons'
+import { Icons } from '../Components/Icons/tech'
 
 
 export const WhyChooseUs = () => {

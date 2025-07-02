@@ -5,7 +5,7 @@ import { BottomNav } from '../Components/Navbar/BottomNav'
 import BecomeInstructorSection from '../Components/BecomeTutor/Content'
 import InstructorFormSection from '../Components/BecomeTutor/Form'
 import Footer from '../Components/Footer/Footer'
-import { Icons } from '../Components/Icons/Icons.jsx'
+import { Icons } from '../Components/Icons/tech.jsx'
 
 export const BecomeTutor = () => {
   return (
