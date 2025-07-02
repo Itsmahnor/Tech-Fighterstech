@@ -4,7 +4,8 @@ import { BottomNav } from '../Components/Navbar/BottomNav'
 import { SearchProgram } from '../ProgramFindPage/SearchProgram/SearchProgram'
 import { Header } from '../ProgramFindPage/Header'
 import Footer from '../Components/Footer/Footer'
-import { ICONS } from '../Components/Icons/Icons.jsx'
+import { Icons } from '../Components/Icons/Icons'
+
 
 export const FindProgram = () => {
   return (
@@ -13,7 +14,7 @@ export const FindProgram = () => {
   <BottomNav />
 <Header />
   <SearchProgram  />
-  <ICONS />
+ <Icons />
   <Footer />
   </>
   )

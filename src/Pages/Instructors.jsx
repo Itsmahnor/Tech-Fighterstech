@@ -4,8 +4,9 @@ import { BottomNav } from '../Components/Navbar/BottomNav'
 import { Header } from '../Components/OurInstructors/Header'
 
 import { Tutor } from '../Components/Tutot/Tutor'
-import { ICONS } from '../Components/Icons/Icons.jsx'
+
 import Footer from '../Components/Footer/Footer'
+import { Icons } from '../Components/Icons/Icons'
 
 export const Instructors = () => {
   return (
@@ -14,7 +15,7 @@ export const Instructors = () => {
       <BottomNav />
       <Header />
     <Tutor />
-    <ICONS />
+   <Icons />
     <Footer />
     </div>
   )

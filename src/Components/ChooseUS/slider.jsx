@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { ICONS } from "./Icons";
+
 
 const Opportunities = () => {
   const [openPanel, setOpenPanel] = useState(null);

@@ -3,7 +3,7 @@ import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
-export const ICONS = () => {
+export  const Icons = () => {
   const [isSmallScreen, setIsSmallScreen] = useState(false);
 
   // Check screen size on window resize

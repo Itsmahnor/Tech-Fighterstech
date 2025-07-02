@@ -4,7 +4,8 @@ import { TopNav } from '../Components/Navbar/TopNav'
 import { BottomNav } from '../Components/Navbar/BottomNav'
 import SignUp from '../RegisterPage/SignUp/SignUp'
 import Footer from '../Components/Footer/Footer'
-import { ICONS } from '../Components/Icons/Icons.jsx'
+import { Icons } from '../Components/Icons/Icons'
+
 
 export const Register = () => {
   return (
@@ -13,7 +14,7 @@ export const Register = () => {
 <BottomNav />
  <Header />
  <SignUp />
- <ICONS />
+<Icons />
  <Footer />
  </>
   

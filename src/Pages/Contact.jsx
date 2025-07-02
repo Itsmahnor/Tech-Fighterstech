@@ -3,7 +3,8 @@ import axios from "axios";
 import { TopNav } from "../Components/Navbar/TopNav";
 import { BottomNav } from "../Components/Navbar/BottomNav";
 import Footer from "../Components/Footer/Footer";
-import { ICONS } from "../Components/Icons/Icons.jsx";
+import { Icons } from "../Components/Icons/Icons";
+
 
 export const Contact = () => {
   const [formData, setFormData] = useState({
@@ -202,7 +203,7 @@ export const Contact = () => {
           </div>
         </div>
       </div>
-      <ICONS />
+     <Icons />
       <Footer />
     </div>
   );

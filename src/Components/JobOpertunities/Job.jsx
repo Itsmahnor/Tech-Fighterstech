@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import axios from "axios";
-import { ICONS } from "../Icons/Icons";
+
 
 const JobOpportunities = () => {
   const [jobs] = useState([

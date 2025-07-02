@@ -5,7 +5,7 @@ import { BottomNav } from '../Components/Navbar/BottomNav'
 import BecomeInstructorSection from '../Components/BecomeTutor/Content'
 import InstructorFormSection from '../Components/BecomeTutor/Form'
 import Footer from '../Components/Footer/Footer'
-import { ICONS } from '../Components/Icons/Icons.jsx'
+import { Icons } from '../Components/Icons/Icons.jsx'
 
 export const BecomeTutor = () => {
   return (
@@ -15,7 +15,7 @@ export const BecomeTutor = () => {
    <Header />
    <BecomeInstructorSection />
 <InstructorFormSection />
-<ICONS />
+<Icons />
 <Footer />
    </>
   )

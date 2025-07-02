@@ -6,7 +6,8 @@ import WhyChoose from '../Components/ChooseUS/Content'
 
 import Opportunities from '../Components/ChooseUS/slider'
 import Footer from '../Components/Footer/Footer'
-import { ICONS } from '../Components/Icons/Icons.jsx'
+import { Icons } from '../Components/Icons/Icons'
+
 
 export const WhyChooseUs = () => {
   return (
@@ -17,7 +18,7 @@ export const WhyChooseUs = () => {
   <WhyChoose />
 
 <Opportunities />
-<ICONS />
+<Icons />
 <Footer />
     </>
   )
