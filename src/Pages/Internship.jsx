@@ -4,7 +4,7 @@ import { TopNav } from '../Components/Navbar/TopNav'
 import { BottomNav } from '../Components/Navbar/BottomNav'
 import InternshipCertificationProgram from '../Components/InternShip/content'
 import Footer from '../Components/Footer/Footer'
-import { ICONS } from '../Components/Icons/Icons'
+import { ICONS } from '../Components/Icons/Icons.jsx'
 
 export const Internship = () => {
   return (
